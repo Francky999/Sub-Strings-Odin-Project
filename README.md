@@ -1,0 +1,1 @@
+Implémenter une méthode #substrings qui prend un mot comme premier argument, puis un tableau de sous-chaînes valides (votre dictionnaire) comme deuxième argument. Il doit renvoyer un hachage répertoriant chaque sous-chaîne (insensible à la casse) qui a été trouvée dans la chaîne d’origine et combien de fois elle a été trouvée.
